@@ -22,7 +22,7 @@ These STL files may now easily be imported into many 3D modeling tools (includin
     <td><img style="width:70px; height:70px" src="./PNG/H.png"></td>
   </tr>
   <tr>
-    <td><center>A</center></td>
+    <td style="text-align:center">A</td>
     <td style="text-align:center">B</td>
     <td style="text-align:center">C</td>
     <td style="text-align:center">D</td>
