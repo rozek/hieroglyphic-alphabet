@@ -12,7 +12,7 @@ These STL files may now easily be imported into many 3D modeling tools (includin
 
 <table>
   <tr>
-    <td><img style="width:70px; height:70px" src="../PNG/A.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/A.png"></td>
     <td><img style="width:70px; height:70px" src="../PNG/B.png"></td>
     <td><img style="width:70px; height:70px" src="../PNG/C.png"></td>
     <td><img style="width:70px; height:70px" src="../PNG/D.png"></td>
