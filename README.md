@@ -10,6 +10,16 @@ These STL files may now easily be imported into many 3D modeling tools (includin
 
 <table>
   <tr>
+    <td><img style="width:70px; height:70px" src="../PNG/A.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/B.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/C.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/D.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/E.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/F.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/G.png"></td>
+    <td><img style="width:70px; height:70px" src="../PNG/H.png"></td>
+  </tr>
+  <tr>
     <td style="text-align:center">A</td>
     <td style="text-align:center">B</td>
     <td style="text-align:center">C</td>
