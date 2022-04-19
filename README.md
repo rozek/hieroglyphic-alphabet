@@ -8,7 +8,7 @@ These STL files may now easily be imported into many 3D modeling tools (includin
 
 ### Overview ###
 
-> Please note: there seem to be several variants of an "egyptian alphabet" - not counting the "Gardiner" list with hundreds of different hieroglyphs. The set shown below is a mixture of several alphabets I found during my research - please, do not take it too seriously: this set has been build for your pleasure only!
+> Please note: there seem to be several variants of an "egyptian alphabet" - not even counting the "Gardiner list" with hundreds of different hieroglyphs. The set shown below is a mixture of several alphabets I found during my research - please, do not take it too seriously: this set has been build for your pleasure only!
 
 <table>
   <tr>
