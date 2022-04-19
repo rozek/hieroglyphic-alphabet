@@ -89,6 +89,8 @@ These STL files may now easily be imported into many 3D modeling tools (includin
 
 ### Tools Used ###
 
+The following tools helped me generating the desired STL files:
+
 * [Photoline](https://www.pl32.de/) for image preparation
 * [Bildvektorisierer](http://image-vectorizer.com/bildvektorisierer.html) for image vectorization
 * [svg2stl](https://svg2stl.com/) for the final conversion into STL format (online)
