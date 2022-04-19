@@ -13,13 +13,13 @@ These STL files may now easily be imported into many 3D modeling tools (includin
 <table>
   <tr>
     <td><img style="width:70px; height:70px" src="./PNG/A.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/B.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/C.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/D.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/E.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/F.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/G.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/H.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/B.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/C.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/D.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/E.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/F.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/G.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/H.png"></td>
   </tr>
   <tr>
     <td style="text-align:center">A</td>
@@ -32,14 +32,14 @@ These STL files may now easily be imported into many 3D modeling tools (includin
     <td style="text-align:center">H</td>
   </tr>
   <tr>
-    <td><img style="width:70px; height:70px" src="../PNG/I.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/J.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/K.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/L.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/M.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/N.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/O.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/P.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/I.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/J.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/K.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/L.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/M.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/N.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/O.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/P.png"></td>
   </tr>
   <tr>
     <td style="text-align:center">I</td>
@@ -52,14 +52,14 @@ These STL files may now easily be imported into many 3D modeling tools (includin
     <td style="text-align:center">P</td>
   </tr>
   <tr>
-    <td><img style="width:70px; height:70px" src="../PNG/Q.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/R.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/S.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/T.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/U.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/V.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/W.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/X.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/Q.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/R.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/S.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/T.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/U.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/V.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/W.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/X.png"></td>
   </tr>
   <tr>
     <td style="text-align:center">Q</td>
@@ -72,11 +72,11 @@ These STL files may now easily be imported into many 3D modeling tools (includin
     <td style="text-align:center">X</td>
   </tr>
   <tr>
-    <td><img style="width:70px; height:70px" src="../PNG/Y.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/Z.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/CH.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/KH.png"></td>
-    <td><img style="width:70px; height:70px" src="../PNG/SH.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/Y.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/Z.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/CH.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/KH.png"></td>
+    <td><img style="width:70px; height:70px" src="./PNG/SH.png"></td>
   </tr>
   <tr>
     <td style="text-align:center">Y</td>
